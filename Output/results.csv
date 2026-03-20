@@ -1,0 +1,9 @@
+TF-IDF Config,Model,Accuracy,Precision,Recall,F1-Score
+"Bigram  (1,2)",SVM (LinearSVC),0.9095,0.9126,0.9095,0.9107
+"Bigram  (1,2)",Logistic Regression,0.9067,0.9153,0.9067,0.9092
+"Unigram (1,1)",SVM (LinearSVC),0.9010,0.9057,0.9010,0.9027
+"Unigram (1,1)",Logistic Regression,0.8995,0.9102,0.8995,0.9025
+"Bigram  (1,2)",Naive Bayes,0.8892,0.8900,0.8892,0.8811
+"Unigram (1,1)",Naive Bayes,0.8235,0.8491,0.8235,0.7828
+"Unigram (1,1)",Baseline (Dummy),0.7618,0.5803,0.7618,0.6587
+"Bigram  (1,2)",Baseline (Dummy),0.7618,0.5803,0.7618,0.6587
