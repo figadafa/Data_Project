@@ -273,7 +273,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 🙋 Author
 
-**Your Name**
+**FIGA BRILLIANT DAFFA**
 - GitHub: [@figadafa](https://github.com/figadafa)
 - LinkedIn: [Figa Brilliant Daffa](https://www.linkedin.com/in/figabrilliantdaffa/)
 
