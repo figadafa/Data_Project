@@ -1,10 +1,10 @@
 🚀 Sentiment Analysis Pipeline (TF-IDF + Classical ML)
 
-A portfolio-ready Natural Language Processing (NLP) project that demonstrates an end-to-end machine learning pipeline for sentiment classification using traditional models — without deep learning.
+A portfolio of Natural Language Processing (NLP) project that demonstrates an end to end machine learning pipeline for sentiment classification using traditional models without deep learning.
 
 📌 Overview
 
-In real-world applications such as e-commerce platforms, thousands of user reviews are generated daily.
+In real world applications such as e-commerce platforms, thousands of user reviews are generated daily.
 Manually analyzing sentiment is inefficient, subjective, and not scalable.
 
 This project addresses that problem by building a fully automated sentiment classification pipeline that can classify reviews as:
@@ -23,7 +23,7 @@ structured experimentation
 
 ✨ Key Features
 
-🔄 End-to-End Pipeline (data → preprocessing → modeling → evaluation → deployment-ready output)
+🔄 End to End Pipeline (data → preprocessing → modeling → evaluation → deployment-ready output)
 
 ⚖️ Class Imbalance Handling using class_weight="balanced"
 
