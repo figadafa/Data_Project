@@ -1,27 +1,27 @@
-🚀 Sentiment Analysis Pipeline (TF-IDF + Classical ML)
+## 🚀 Sentiment Analysis Pipeline (TF-IDF + Classical ML)
 
 A portfolio of Natural Language Processing (NLP) project that demonstrates an end to end machine learning pipeline for sentiment classification using traditional models without deep learning.
 
-📌 Overview
+## 📌 Overview
 
 In real world applications such as e-commerce platforms, thousands of user reviews are generated daily.
 Manually analyzing sentiment is inefficient, subjective, and not scalable.
 
 This project addresses that problem by building a fully automated sentiment classification pipeline that can classify reviews as:
 
-Positive (1)
+* Positive (1)
 
-Negative (0)
+* Negative (0)
 
 The focus is not just model accuracy, but also:
 
-reproducibility
+> reproducibility
 
-interpretability
+> interpretability
 
-structured experimentation
+> structured experimentation
 
-✨ Key Features
+ ## ✨ Key Features
 
 🔄 End to End Pipeline (data → preprocessing → modeling → evaluation → deployment-ready output)
 
@@ -51,7 +51,7 @@ Logistic Regression
 
 📁 Results Export for further analysis
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 Data_Project/
@@ -167,19 +167,19 @@ Model Saving + Results Export
 
 ## 📈 Evaluation Metrics
 
-Accuracy
+1. Accuracy
 
-Precision
+2. Precision
 
-Recall
+3. Recall
 
-F1-Score (primary ranking metric)
+4. F1-Score (primary ranking metric)
 
-Confusion Matrix
+5. Confusion Matrix
 
-Classification Report
+6. Classification Report
 
-All metrics use weighted averaging to account for class imbalance.
+>All metrics use weighted averaging to  account for class imbalance.
 ---
 
 ## 📤📤 Output Files
