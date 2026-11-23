@@ -22,7 +22,7 @@ MAX_BATCH_ROWS = 1000
 
 st.set_page_config(
     page_title="ReviewLens",
-    page_icon=os.path.join(BASE_DIR, "asset", "favicon-32.png"),
+    page_icon=os.path.join(BASE_DIR, "asset", "reviewlens-icon.png"),
     layout="centered",
 )
 st.logo(
