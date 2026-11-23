@@ -265,6 +265,28 @@ pip freeze > requirements.txt
 
 ---
 
+## Menjalankan Demo ReviewLens
+
+Untuk menjalankan demo Streamlit "ReviewLens", ikuti langkah-langkah berikut:
+
+1.  **Instal dependensi:**
+    Pastikan Anda memiliki Python dan pip terinstal. Kemudian, instal semua pustaka yang diperlukan dari `requirements.txt`:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2.  **Jalankan aplikasi Streamlit:**
+    Setelah dependensi terinstal, jalankan aplikasi menggunakan perintah Streamlit:
+
+    ```bash
+    streamlit run app.py
+    ```
+
+    Aplikasi akan terbuka secara otomatis di browser web default Anda.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
